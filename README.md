@@ -1,4 +1,6 @@
-### Hi there 👋
+Print designer :floppy_disk: catching up with technology! 
+
+Learning my way around HTML, CSS and JS
 
 <!--
 **ptifur/ptifur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
